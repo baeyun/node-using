@@ -17,6 +17,18 @@
     "module",
     "common"
   ],
-  "author": "undefinedbuddy",
-  "license": "MIT"
+  "author": "bukharim96",
+  "license": "MIT",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bukharim96/node-using.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bukharim96/node-using/issues"
+  },
+  "homepage": "https://github.com/bukharim96/node-using#readme"
 }
