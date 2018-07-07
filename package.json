@@ -1,0 +1,22 @@
+{
+  "name": "node-using",
+  "version": "1.0.0",
+  "description": "A superset of Node's CommonJS module system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "using",
+    "import",
+    "require",
+    "get",
+    "include",
+    "requireAll",
+    "module",
+    "common"
+  ],
+  "author": "undefinedbuddy",
+  "license": "MIT"
+}
